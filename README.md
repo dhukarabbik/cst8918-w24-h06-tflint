@@ -116,6 +116,6 @@ variable "region" {
 3. Correct all reported issues.
 4. Make sure that the **Terratest** conditions are still passing.
    > [!IMPORTANT]
-   > Don't forget to update the _subscriptionID_ and _labelPrefix_ variables in the test file.
+   > Don't forget to update the _subscriptionID_ and _label_prefix_ variables in the test file.
 5. Make a git commit and push your branch to GitHub.
 6. Submit your GitHub repo's URL on Brightspace.
